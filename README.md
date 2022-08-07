@@ -1,8 +1,1 @@
-"# Fish_Weight_Prediction" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
-"# Fake_News_Detection" 
+Python Project that uses Natural Language Processing to detect Fake News from a dataset.
